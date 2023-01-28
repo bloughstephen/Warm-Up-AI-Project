@@ -3,3 +3,5 @@ This details my Journey through Jaseci:
 Setup to install python 3.10 took some time but it all worked out. After that Part 1 went along easily. With part 2, I didn't have any issues with running anything. I did realize that I need to relaunch the command line after downloading the AI toolkit because it wouldn't recognize it if I stayed within the same session while downloading it.
 
 For part 3, I had some issues with getting the model to successfully train but once I got that done the rest went by pretty well.
+
+Part 4 went really easily for me and I appreciated that I wasn't exactly handheld all the way and was relied upon to actually go in and find the spots of code to fix. One thing I saw is that you have to import faq.jac which wasn't really stated and the import section doesn't mention that a semi-colon is needed after the import syntax.
