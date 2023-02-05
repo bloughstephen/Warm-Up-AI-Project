@@ -1,4 +1,5 @@
-import {*} with "faq.jac";
+import {*} with "./faq.jac";
+import {*} with "./ai_model.jac";
 
 node cai_state {
     has name;
@@ -214,6 +215,5 @@ walker talk {
 walker init {
     root {
         spawn here ++> graph::tesla_ai;
-        spawn here walker::talk;
     }
 }

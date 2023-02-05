@@ -6,4 +6,4 @@ For part 3, I had some issues with getting the model to successfully train but o
 
 Part 4 went really easily for me and I appreciated that I wasn't exactly handheld all the way and was relied upon to actually go in and find the spots of code to fix. One thing I saw is that you have to import faq.jac which wasn't really stated and the import section doesn't mention that a semi-colon is needed after the import syntax.
 
-Part 5, I had a significant slow down with the sentinel portion because for some reason it wasn't able to register my scripts as sentinels. I found that I had way more success when I ran sentinel register -name tesla_ai -set_active true tesla_ai.jac instead of the supplied register command.
+Part 5, I had a significant slow down with the sentinel portion because for some reason it wasn't able to register my scripts as sentinels. I found that I had way more success when I ran sentinel register -name tesla_ai -set_active true tesla_ai.jac instead of the supplied register command. I also liked how this last section was a catch all for all the use cases that we can use when we deploy.
